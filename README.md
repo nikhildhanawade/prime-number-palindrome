@@ -1,1 +1,1 @@
-# prime-number-palindrome
+# git_practice_assignment
